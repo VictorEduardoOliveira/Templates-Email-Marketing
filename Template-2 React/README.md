@@ -18,4 +18,4 @@ O objetivo foi desenvolver uma interface próxima de uma campanha real de market
 
 ## 🖥️ Preview
 
-![Preview do projeto](./src/assets/screenshot.png)
+![Preview do projeto](./src/assets/screenshot.PNG)
