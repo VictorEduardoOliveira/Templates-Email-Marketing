@@ -1,16 +1,21 @@
-# React + Vite
+# Email Marketing Template de Venda de Produto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de criação de um email marketing inspirado no layout de campanhas do Mercado Livre.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
 
-## React Compiler
+## 📌 Sobre o projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Este projeto consiste na reprodução de um layout de email marketing utilizando React, explorando estruturação de componentes, organização visual e estilização responsiva.
 
-## Expanding the ESLint configuration
+O objetivo foi desenvolver uma interface próxima de uma campanha real de marketing digital, aplicando boas práticas de desenvolvimento front-end.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖥️ Preview
+
+![Preview do projeto](./src/assets/screenshot.png)
